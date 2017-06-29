@@ -15,13 +15,13 @@ yarn
 To start the dev server type:
 
 ```sh
-npm start
+npm run dev
 ```
 
 Or if you prefer `yarn`:
 
 ```sh
-yarn start
+yarn run dev
 ```
 
 Now you can navigate to `http://localhost:8080/` and observe the app.
